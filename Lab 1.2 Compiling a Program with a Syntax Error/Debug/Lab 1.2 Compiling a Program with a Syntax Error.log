@@ -1,0 +1,3 @@
+﻿  semiprob.cpp
+C:\Users\frank\source\repos\Lab 1 Introduction to Programming and the Translation Process\Lab 1.2 Compiling a Program with a Syntax Error\semiprob.cpp(17,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab 1.2 Compiling a Program with a Syntax Error.vcxproj -> C:\Users\frank\source\repos\Lab 1 Introduction to Programming and the Translation Process\Debug\Lab 1.2 Compiling a Program with a Syntax Error.exe
