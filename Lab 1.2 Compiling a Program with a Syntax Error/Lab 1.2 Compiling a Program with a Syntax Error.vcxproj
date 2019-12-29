@@ -23,7 +23,7 @@
     <ProjectGuid>{6F21FB5F-8F32-4E17-B48A-C797B147B41A}</ProjectGuid>
     <RootNamespace>Lab12CompilingaProgramwithaSyntaxError</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Lab 1.2</ProjectName>
+    <ProjectName>Lab 1.2 Compiling a Program with a Syntax Error</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="semiprob.cpp" />
+    <ClCompile Include="..\Lab Manual Source Code\Lab 1\semiprob.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

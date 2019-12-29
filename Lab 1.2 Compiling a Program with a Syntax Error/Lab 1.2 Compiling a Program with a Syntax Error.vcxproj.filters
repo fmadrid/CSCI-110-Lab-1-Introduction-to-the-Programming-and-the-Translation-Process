@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="semiprob.cpp">
+    <ClCompile Include="..\Lab Manual Source Code\Lab 1\semiprob.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
